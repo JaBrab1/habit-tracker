@@ -1,0 +1,24 @@
+
+# SQLite temporary files
+habits.db-journal
+habits.db-wal
+habits.db-shm
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE and editor settings
+.pytest_cache/
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
